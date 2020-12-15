@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="61178dee4c114c6ab28fa56a84634988" Name="Diagram1">
+        <EntityTypeShape EntityType="HiringEmployeesModel.EmployeeTable" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Position" Width="1.5" PointX="3" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.PositionEmployee" Width="1.5" PointX="5.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Rating" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Results" Width="1.5" PointX="8.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Resume" Width="1.5" PointX="5.25" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Reviews" Width="1.5" PointX="5.25" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Role" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Status" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Subject" Width="1.5" PointX="8.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.sysdiagrams" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Technology" Width="1.5" PointX="6" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.Users" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiringEmployeesModel.WhatCan" Width="1.5" PointX="8.25" PointY="6.25" IsExpanded="true" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__EmployeeT__IDSta__7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__PositionE__IDEmp__02084FDA" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Rating__IDEmploy__04E4BC85" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Results__IDEmplo__17F790F9" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Resume__IDEmploy__151B244E" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Reviews__IDEmplo__114A936A" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__WhatCan__IDEmplo__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__PositionE__IDPos__01142BA1" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Rating__IDUser__05D8E0BE" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Results__IDUser__18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Reviews__IDUser__123EB7A3" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Users__IDRole__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__Subject__IDTechn__0A9D95DB" ManuallyRouted="false" />
+        <AssociationConnector Association="HiringEmployeesModel.FK__WhatCan__IDTechn__0D7A0286" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

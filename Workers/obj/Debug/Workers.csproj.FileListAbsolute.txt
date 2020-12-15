@@ -1,0 +1,301 @@
+C:\Users\User\source\repos\Workers\Workers\bin\Debug\Workers.exe.config
+C:\Users\User\source\repos\Workers\Workers\bin\Debug\Workers.exe
+C:\Users\User\source\repos\Workers\Workers\bin\Debug\Workers.pdb
+C:\Users\User\source\repos\Workers\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.exe
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.pdb
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.Employee.resources
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\User\source\repos\Workers\Workers\obj\Debug\Workers.Subjects.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\bin\Debug\Workers.exe.config
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\bin\Debug\Workers.exe
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\bin\Debug\Workers.pdb
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.exe
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.pdb
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\Workers\obj\Debug\Workers.EditPost.resources
+D:\папка\Workers\bin\Debug\Workers.exe.config
+D:\папка\Workers\bin\Debug\Workers.exe
+D:\папка\Workers\bin\Debug\Workers.pdb
+D:\папка\Workers\bin\Debug\MaterialSkin.dll
+D:\папка\Workers\bin\Debug\MaterialSkin.pdb
+D:\папка\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+D:\папка\Workers\obj\Debug\Workers.Anketa.resources
+D:\папка\Workers\obj\Debug\Workers.Chat.resources
+D:\папка\Workers\obj\Debug\Workers.Developers.resources
+D:\папка\Workers\obj\Debug\Workers.EditComment.resources
+D:\папка\Workers\obj\Debug\Workers.EditPost.resources
+D:\папка\Workers\obj\Debug\Workers.EmployeeForm.resources
+D:\папка\Workers\obj\Debug\Workers.Form1.resources
+D:\папка\Workers\obj\Debug\Workers.Letter.resources
+D:\папка\Workers\obj\Debug\Workers.MainForm.resources
+D:\папка\Workers\obj\Debug\Workers.Properties.Resources.resources
+D:\папка\Workers\obj\Debug\Workers.SubjectsForm.resources
+D:\папка\Workers\obj\Debug\Workers.UserProfile.resources
+D:\папка\Workers\obj\Debug\Workers.UsersForm.resources
+D:\папка\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+D:\папка\Workers\obj\Debug\Workers.csproj.CopyComplete
+D:\папка\Workers\obj\Debug\Workers.exe
+D:\папка\Workers\obj\Debug\Workers.pdb
+D:\папка\Workers\bin\Debug\EntityFramework.dll
+D:\папка\Workers\bin\Debug\EntityFramework.SqlServer.dll
+D:\папка\Workers\bin\Debug\EntityFramework.xml
+D:\папка\Workers\bin\Debug\EntityFramework.SqlServer.xml
+D:\папка\user 2\Workers\bin\Debug\Workers.exe.config
+D:\папка\user 2\Workers\bin\Debug\Workers.exe
+D:\папка\user 2\Workers\bin\Debug\Workers.pdb
+D:\папка\user 2\Workers\bin\Debug\EntityFramework.dll
+D:\папка\user 2\Workers\bin\Debug\EntityFramework.SqlServer.dll
+D:\папка\user 2\Workers\bin\Debug\MaterialSkin.dll
+D:\папка\user 2\Workers\bin\Debug\MaterialSkin.pdb
+D:\папка\user 2\Workers\bin\Debug\EntityFramework.xml
+D:\папка\user 2\Workers\bin\Debug\EntityFramework.SqlServer.xml
+D:\папка\user 2\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+D:\папка\user 2\Workers\obj\Debug\Workers.Anketa.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.Chat.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.Developers.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.EditComment.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.EditPost.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.EmployeeForm.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.Form1.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.Letter.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.MainForm.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.Properties.Resources.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.SubjectsForm.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.UserProfile.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.UsersForm.resources
+D:\папка\user 2\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+D:\папка\user 2\Workers\obj\Debug\Workers.csproj.CopyComplete
+D:\папка\user 2\Workers\obj\Debug\Workers.exe
+D:\папка\user 2\Workers\obj\Debug\Workers.pdb
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.exe
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.pdb
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\Workers.exe.config
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\Workers.exe
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\Workers.pdb
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\user_2\user 2\Workers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\user_2\user 2\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\Workers.exe.config
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\Workers.exe
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\Workers.pdb
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\EntityFramework.dll
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\EntityFramework.xml
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.exe
+C:\Users\sasha\Downloads\user_2 (1)\user_2\user 2\Workers\obj\Debug\Workers.pdb
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\Workers.exe.config
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\Workers.exe
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\Workers.pdb
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Новая папка (5)\Workers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.exe
+C:\Users\student\Desktop\Новая папка (5)\Workers\obj\Debug\Workers.pdb
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\Workers.exe.config
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\Workers.exe
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\Workers.pdb
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\Новая папка (5)\Workers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.exe
+C:\Users\student\Downloads\Новая папка (5)\Workers\obj\Debug\Workers.pdb
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.exe
+C:\Users\sasha\Downloads\последняя_версия\Новая папка (5)\Workers\obj\Debug\Workers.pdb
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.exe
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.pdb
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\Workers.exe.config
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\Workers.exe
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\Workers.pdb
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\EntityFramework.dll
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\EntityFramework.xml
+C:\Users\sasha\Downloads\Новая_п11)\Workers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasha\Downloads\Новая_п11)\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\Workers.exe.config
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\Workers.exe
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\Workers.pdb
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\MaterialSkin.dll
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\MaterialSkin.pdb
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.Anketa.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.Chat.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.Developers.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.EditComment.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.EditPost.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.EmployeeForm.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.Form1.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.Letter.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.MainForm.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.Properties.Resources.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.SubjectsForm.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.UserProfile.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.UsersForm.resources
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.csproj.CopyComplete
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.exe
+C:\Users\student\Downloads\Новая_п11) (1)\Workers\obj\Debug\Workers.pdb
+D:\html\fruit\Workers\obj\Debug\Workers.csprojAssemblyReference.cache
+D:\html\fruit\Workers\obj\Debug\Workers.Anketa.resources
+D:\html\fruit\Workers\obj\Debug\Workers.Chat.resources
+D:\html\fruit\Workers\obj\Debug\Workers.Developers.resources
+D:\html\fruit\Workers\obj\Debug\Workers.EditComment.resources
+D:\html\fruit\Workers\obj\Debug\Workers.EditPost.resources
+D:\html\fruit\Workers\obj\Debug\Workers.EmployeeForm.resources
+D:\html\fruit\Workers\obj\Debug\Workers.Form1.resources
+D:\html\fruit\Workers\obj\Debug\Workers.Letter.resources
+D:\html\fruit\Workers\obj\Debug\Workers.MainForm.resources
+D:\html\fruit\Workers\obj\Debug\Workers.Properties.Resources.resources
+D:\html\fruit\Workers\obj\Debug\Workers.SubjectsForm.resources
+D:\html\fruit\Workers\obj\Debug\Workers.UserProfile.resources
+D:\html\fruit\Workers\obj\Debug\Workers.UsersForm.resources
+D:\html\fruit\Workers\obj\Debug\Workers.csproj.GenerateResource.cache
+D:\html\fruit\Workers\obj\Debug\Workers.exe
+D:\html\fruit\Workers\obj\Debug\Workers.pdb
+D:\html\fruit\Workers\bin\Debug\Workers.exe.config
+D:\html\fruit\Workers\bin\Debug\Workers.exe
+D:\html\fruit\Workers\bin\Debug\Workers.pdb
+D:\html\fruit\Workers\bin\Debug\EntityFramework.dll
+D:\html\fruit\Workers\bin\Debug\EntityFramework.SqlServer.dll
+D:\html\fruit\Workers\bin\Debug\MaterialSkin.dll
+D:\html\fruit\Workers\bin\Debug\MaterialSkin.pdb
+D:\html\fruit\Workers\bin\Debug\EntityFramework.xml
+D:\html\fruit\Workers\bin\Debug\EntityFramework.SqlServer.xml
+D:\html\fruit\Workers\obj\Debug\Workers.csproj.CopyComplete

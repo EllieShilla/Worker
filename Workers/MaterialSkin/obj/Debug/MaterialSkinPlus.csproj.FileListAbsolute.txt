@@ -1,0 +1,10 @@
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\bin\Debug\MaterialSkin.pdb
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkinPlus.csprojAssemblyReference.cache
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkin.Properties.Resources.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkinPlus.csproj.GenerateResource.cache
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkinPlus.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkin.dll
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkin.pdb
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkin.Chat.resources
+C:\Users\User\Documents\MEGA\ADO.NET\Workers\MaterialSkin\obj\Debug\MaterialSkin.Developers.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workers", "Workers\Workers.csproj", "{D8A433B0-FDC1-48A1-BC9A-60D9C2BF55FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialSkinPlus", "MaterialSkin\MaterialSkinPlus.csproj", "{8EB7611B-68CD-4B8B-987A-11717E2B250C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A433B0-FDC1-48A1-BC9A-60D9C2BF55FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A433B0-FDC1-48A1-BC9A-60D9C2BF55FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A433B0-FDC1-48A1-BC9A-60D9C2BF55FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A433B0-FDC1-48A1-BC9A-60D9C2BF55FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB7611B-68CD-4B8B-987A-11717E2B250C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB7611B-68CD-4B8B-987A-11717E2B250C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB7611B-68CD-4B8B-987A-11717E2B250C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB7611B-68CD-4B8B-987A-11717E2B250C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E52C634-AC5D-429E-B5C2-065C977CAF53}
+	EndGlobalSection
+EndGlobal
